@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Highlight
+  - OrderStation
+  - Stove
+  - GarbageBin
+  - DishWasher
+  - DirtyDishes
+  - CounterTop
+  - CuttingBoard
+  - FoodStorage
+  - Lettuce
+  - Tomato
+  - Fish
+  - Bun
+  - Plate
+  - EmptyTop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - DinoInteractible
+  - PlayerInteractible
+  - UniInteractible
+  - Dino
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
